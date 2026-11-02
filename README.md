@@ -1,1 +1,2 @@
 # sports-predictor
+Sports Predictor is a Java-based program designed to predict the outcomes of upcoming sports games using historical statistics, team performance, and recent results. The goal of this project is to explore how data and statistical analysis can help sports fans make more informed predictions. The MVP will allow users to select matchups, retrieve sports data from the ESPN API, and view predicted winners alongside relevant statistics. Future improvements may include player performance predictions, support for multiple sports, and interactive visualizations.
